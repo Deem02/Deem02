@@ -1,6 +1,6 @@
-# Hi there, I'm Deem 👋
+## Hi there, I'm Deem 👋
 
-🎓 **Recent IT Graduate**  
+## 🎓 **Recent IT Graduate**  
 
 I'm passionate about building impactful digital solutions that enhance efficiency, improve user experience, and drive digital transformation.  
 I enjoy turning ideas into real-world applications through clean code, modern tools, and continuous learning.
