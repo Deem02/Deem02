@@ -18,10 +18,10 @@ I enjoy turning ideas into real-world applications through clean code, modern to
 ## 🛠️ Tech Stack  
 
 - Frontend: HTML | CSS | JavaScript | React | FlutterFlow
-- Backend: Python | Django | Django REST Framework  
-- Database: PostgreSQL | MySQL | SQL  | Supabase
-- Tools & APIs: Git | GitHub | VS Code | Postman | JWT Authentication | FastAPI
-- Others: Firebase | Supabase
+- Backend: Python | Django | Django REST Framework 
+- Database: PostgreSQL | MySQL | SQL | Firebase | Supabase
+- Tools & APIs: Git | GitHub | VS Code | Postman | JWT Authentication 
+
 
 
 ## 🌍 Let's Connect  
