@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Deem 👋
+
+🎓 **Recent IT Graduate**  
+
+I'm passionate about building impactful digital solutions that enhance efficiency, improve user experience, and drive digital transformation.  
+I enjoy turning ideas into real-world applications through clean code, modern tools, and continuous learning.
+
+---
+
+## 🚀 About Me  
+
+- 💡 Completed an intensive Software Engineering Bootcamp 
+- 👩🏻‍💻 Experienced in Full-Stack Development using Python, Django, React, and RESTful APIs  
+- 🌱 Currently exploring AI and Data Analysis paths to expand my technical horizon  
+
+---
+
+## 🛠️ Tech Stack  
+
+Frontend: HTML | CSS | JavaScript | React  
+Backend: Python | Django | Django REST Framework  
+Database: PostgreSQL | MySQL | SQL  
+Tools & APIs: Git | GitHub | VS Code | Postman | JWT Authentication  
+Others: Firebase | Supabase | FastAPI | FlutterFlow
+
+
 
 <!--
 **Deem02/Deem02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
