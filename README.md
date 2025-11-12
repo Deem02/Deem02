@@ -23,6 +23,9 @@ Database: PostgreSQL | MySQL | SQL
 Tools & APIs: Git | GitHub | VS Code | Postman | JWT Authentication  
 Others: Firebase | Supabase | FastAPI | FlutterFlow
 
+## 🌍 Let's Connect  
+📧 Email: [Deemalq202@gmail.com](mailto:Deemalq202@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/deem-alqasir](https://www.linkedin.com/in/deem-alqasir)
 
 
 <!--
