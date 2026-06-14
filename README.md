@@ -11,7 +11,7 @@ I enjoy turning ideas into real-world applications through clean code, modern to
 
 - 💡 Completed an intensive Software Engineering Bootcamp 
 - 👩🏻‍💻 Experienced in Full-Stack Development using Python, Django, React, and RESTful APIs  
-- 🌱 Currently exploring AI and Data Analysis paths to expand my technical horizon  
+- 🌱 Currently exploring  and Data Analysis paths to expand my technical horizon  
 
 ---
 
