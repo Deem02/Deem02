@@ -11,7 +11,6 @@ I enjoy turning ideas into real-world applications through clean code, modern to
 
 - 💡 Completed an intensive Software Engineering Bootcamp 
 - 👩🏻‍💻 Experienced in Full-Stack Development using Python, Django, React, and RESTful APIs  
-- 🌱 Currently exploring  and Data Analysis paths to expand my technical horizon  
 
 ---
 
@@ -31,6 +30,7 @@ I enjoy turning ideas into real-world applications through clean code, modern to
 
 <!--
 Others: Firebase | Supabase | FastAPI | FlutterFlow
+- 🌱 Currently exploring  and Data Analysis paths to expand my technical horizon  
 
 **Deem02/Deem02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
